@@ -82,6 +82,7 @@
 		
 		function EnableSendWave(e)
 		{
+			currentPower = 1;
 			sendingWave = false;
 		}
 
